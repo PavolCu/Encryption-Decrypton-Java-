@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/encryptdecrypt/Main.java
+    visible: true
+    learner_created: false
+  - name: test/EncryptDecryptTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/46/stages/246/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 26 Sep 2024 18:48:10 UTC"
+record: 2
